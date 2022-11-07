@@ -1,0 +1,7 @@
+git init
+git remote add origin https://gitea.blogerpedia.com/satej/nuxtjs.git
+
+
+git add .
+git commit -m "nw"
+git push -u origin main
